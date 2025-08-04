@@ -2,6 +2,13 @@
 
 This repository contains my daily internship tasks, done as part of the Elevate Labs internship program.
 
+## 📅 Daily Tasks
+
+- [Day 1 – Console Calculator](./Day1_Consle_Calculator/)
+# Internship at Elevate Labs
+
+This repository contains my daily internship tasks, done as part of the Elevate Labs internship program.
+
 
 ## 📅 Daily Tasks
 ===================
@@ -18,6 +25,7 @@ Create a console-based calculator in Java that performs basic arithmetic operati
 
 ## 📂 Files
 - Calculator_on_console.java
+- [Day 1 – Console Calculator](./Day1_Consle_Calculator/Calculator_on_console.java)
 
 ## 📚 Learning
 - Basic Java input/output
